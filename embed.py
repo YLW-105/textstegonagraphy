@@ -31,7 +31,7 @@ for i in range(len(cotext)):
                 cover = cover + "."
             elif (binarysetext[counter]=="1"):
                 cover = cover + ". "
-                counter = counter + 1
+            counter = counter + 1
                 #Else keep the text the same
         else:
             cover = cover + cotext[i]
