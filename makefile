@@ -4,8 +4,7 @@ help:
 	@echo key: 1 space for 0s, 2 space for 1s
 
 embed: 
-	@python3 embed.py $(ARGS)
+	@python embed.py $(ARGS)
 
 extract:
-	@python3 extract.py $(ARGS)
-
+	@python extract.py $(ARGS)
