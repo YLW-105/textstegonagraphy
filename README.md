@@ -1,8 +1,7 @@
 # Steganography (Text Stegonagraphy) Demo
 
 ### Stego Team Members 
-Yi Ling Wu
-Cindy Zheng
+Yi Ling Wu, Cindy Zheng
 
 ### Description:
 A demo on how to embed a secret message into a text file using a form of White-Space steganography, and how to extract a secret message from a cover message.
