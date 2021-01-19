@@ -15,7 +15,8 @@ Python 3
 
 ### To embed using White-Space steganography
 1. Run this command in terminal 'make embed ARGS="tryembedding.txt secret.txt" > output.txt'
-  a. secret.txt is embedded into tryembedding.txt, and the result is piped into the output.txt file
+  
+  a.secret.txt is embedded into tryembedding.txt, and the result is piped into the output.txt file
   b. the secret message can be extracted following the instructions below, using output.txt as the argument
  
 ### To extract a secret message from the cover message file
