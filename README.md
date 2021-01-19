@@ -10,6 +10,8 @@ A demo on how to embed a secret message into a text file using a form of White-S
 Python 3 
 Make
 
+### *Note about Makefile*
+The makefile uses `python3` to run embed.py and extract.py. If you only have one version of python on your computer, you may have to edit the makefile and change `python3` to `python`
 ### Launch Codes:
 1. Clone this repo `git clone https://github.com/YLW-105/textstegonagraphy`
 2. Change directories to the repo `cd textstegonagraphy`
