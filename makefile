@@ -3,8 +3,8 @@ help:
 	@echo extracting: make extract ARGS="coverMessage"
 	@echo key: 1 space for 0s, 2 space for 1s
 
-embed: 
-	@python embed.py $(ARGS)
+embed:
+	@python3 embed.py $(ARGS)
 
 extract:
-	@python extract.py $(ARGS)
+	@python3 extract.py $(ARGS)
